@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_section_aboutuses",
+  "info": {
+    "name": "sectionAboutUs",
+    "icon": "newspaper"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
