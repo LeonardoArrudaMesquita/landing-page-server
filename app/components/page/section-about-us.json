@@ -2,13 +2,17 @@
   "collectionName": "components_page_section_aboutuses",
   "info": {
     "name": "sectionAboutUs",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "string",
       "required": true
+    },
+    "authors": {
+      "collection": "author"
     }
   }
 }
